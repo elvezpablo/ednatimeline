@@ -1,0 +1,10 @@
+[
+  { "start": "1929-01-01T08:00:00.000Z", "label": "Nickerson, KS" },
+  { "start": "1934-01-01T08:00:00.000Z", "label": "Salinas, CA" },
+  { "start": "1945-01-01T07:00:00.000Z", "label": "Castro Valley, CA" },
+  { "start": "1949-01-01T07:00:00.000Z", "label": "Tracy,CA" },
+  { "start": "1976-01-01T08:00:00.000Z", "label": "Berkeley, CA" },
+  { "start": "1980-01-01T08:00:00.000Z", "label": "Albany, New York" },
+  { "start": "1984-01-01T08:00:00.000Z", "label": "Kensington, CA" },
+  { "start": "1993-01-01T08:00:00.000Z", "label": "El Sobrante, CA" }
+]

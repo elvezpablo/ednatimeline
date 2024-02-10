@@ -1,0 +1,10 @@
+[
+  { "start": "1929-01-01", "label": "Catholic" },
+
+  { "start": "1950-01-01", "label": "Mexico" },
+  { "start": "1945-08-06", "label": "Russia" },
+  { "start": "1970-01-01", "label": "Egypt" },
+  { "start": "2006-01-01", "label": "Yuen Method" },
+  { "start": "2010-01-01", "label": "China" },
+  { "start": "2018-02-01", "label": "Paris" }
+]

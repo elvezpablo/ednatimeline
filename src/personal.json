@@ -1,0 +1,15 @@
+[
+  { "start": "1929-01-01T08:00:00.000Z", "label": "Born" },
+  { "start": "1939-01-01T08:00:00.000Z", "label": "Father & boyfriend die" },
+  { "start": "1944-01-01T07:00:00.000Z", "label": "Brother dies" },
+  { "start": "1947-01-01T07:00:00.000Z", "label": "Married" },
+  { "start": "1950-01-01T08:00:00.000Z", "label": "Nancy born" },
+  { "start": "1952-01-01T08:00:00.000Z", "label": "Sue born" },
+  { "start": "1962-01-01T08:00:00.000Z", "label": "Realtors license" },
+  {
+    "start": "1968-01-01T08:00:00.000Z",
+    "label": "President of Realtor Assc."
+  },
+  { "start": "1972-01-01T08:00:00.000Z", "label": "Brokers Lic." },
+  { "start": "2010-01-01T08:00:00.000Z", "label": "Retired" }
+]
