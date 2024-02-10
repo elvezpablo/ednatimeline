@@ -2,7 +2,7 @@ import { scaleTime } from 'd3';
 import { PatternLines } from '@visx/pattern';
 
 export type Event = {
-  start: Date;
+  start: string;
   end?: Date;
   label: string;
 };

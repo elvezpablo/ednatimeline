@@ -7,10 +7,10 @@ import location from './locations.json';
 import beliefs from './beliefs.json';
 import world from './world.json';
 
-const events: Event[] = personal;
+
 
 export const App: FC<{ name: string }> = ({ name }) => {
-  console.log(JSON.stringify(events));
+  
 
   return (
     <div
