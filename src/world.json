@@ -1,6 +1,8 @@
 [
-  
-  { "label": "Wall Street Crash", "start": "1929-10-24" },
+  {
+    "label": "Wall Street Crash",
+    "start": "1929-10-24"
+  },
   {
     "label": "Great Depression & Migration",
     "start": "1935-08-01"
@@ -9,19 +11,40 @@
     "label": "World War II End",
     "start": "1945-08-06"
   },
-  { "label": "Montgomery Bus Boycott", "start": "1955-12-05" },
+  {
+    "label": "Montgomery Bus Boycott",
+    "start": "1955-12-05"
+  },
   {
     "label": "First Human in Space",
     "start": "1961-04-12"
   },
-  { "label": "Fall of the Berlin Wall", "start": "1989-11-09" },
-  { "label": "September 11th Attacks", "start": "2001-09-11" },
-
-  { "label": "First Moon Landing", "start": "1969-07-20" },
-
-  { "label": "Iranian Revolution", "start": "1979" },
-  { "label": "End of Vietnam War", "start": "1975" },
-
-  { "label": "Election of Barack Obama", "start": "2008-11-04" },
-  { "label": "COVID Pandemic", "start": "2020-03-01" }
+  {
+    "label": "Fall of the Berlin Wall",
+    "start": "1989-11-09"
+  },
+  {
+    "label": "September 11th Attacks",
+    "start": "2001-09-11"
+  },
+  {
+    "label": "First Moon Landing",
+    "start": "1969-07-20"
+  },
+  {
+    "label": "Iranian Revolution",
+    "start": "1979-01-01"
+  },
+  {
+    "label": "End of Vietnam War",
+    "start": "1975-04-30"
+  },
+  {
+    "label": "Election of Barack Obama",
+    "start": "2008-11-04"
+  },
+  {
+    "label": "COVID Pandemic",
+    "start": "2020-03-01"
+  }
 ]

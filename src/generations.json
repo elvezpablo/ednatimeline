@@ -1,0 +1,42 @@
+[
+    {
+        "start": "1901-01-01",
+        "label": "The Greatest Generation",
+        "end": "1927-01-01"
+    },
+    {
+        "start": "1928-01-01",
+        "label": "The Silent Generation",
+        "end": "1945-01-01"
+    },
+    {
+        "start": "1901-01-01",
+        "label": "The Greatest Generation",
+        "end": "1927-01-01"
+    },
+    {
+        "start": "1928-01-01",
+        "label": "The Baby Boomer Generation",
+        "end": "1964-01-01"
+    },
+    {
+        "start": "1965-01-01",
+        "label": "Generation X",
+        "end": "1980-01-01"
+    },
+    {
+        "start": "1981-01-01",
+        "label": "Millennials",
+        "end": "1996-01-01"
+    },
+    {
+        "start": "1997-01-01",
+        "label": "Millennials",
+        "end": "2012-01-01"
+    },
+    {
+        "start": "2013-01-01",
+        "label": "Gen Alpha",
+        "end": "2025-01-01"
+    }
+]
