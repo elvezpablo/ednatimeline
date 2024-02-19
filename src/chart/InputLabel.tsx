@@ -13,6 +13,7 @@ export default function InputLabel({ id, value, date }: Props) {
 
     return (editing ?
         <foreignObject x="20" y="0" width="200" height="46">
+
             <input type="text" value={value} />
             <input
                 type="date"

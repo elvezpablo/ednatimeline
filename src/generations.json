@@ -1,22 +1,17 @@
 [
     {
         "start": "1901-01-01",
-        "label": "The Greatest Generation",
+        "label": "Greatest Generation",
         "end": "1927-01-01"
     },
     {
         "start": "1928-01-01",
-        "label": "The Silent Generation",
+        "label": "Silent Generation",
         "end": "1945-01-01"
     },
     {
-        "start": "1901-01-01",
-        "label": "The Greatest Generation",
-        "end": "1927-01-01"
-    },
-    {
-        "start": "1928-01-01",
-        "label": "The Baby Boomer Generation",
+        "start": "1946-01-01",
+        "label": "Baby Boomers",
         "end": "1964-01-01"
     },
     {
@@ -31,7 +26,7 @@
     },
     {
         "start": "1997-01-01",
-        "label": "Millennials",
+        "label": "Generation Z",
         "end": "2012-01-01"
     },
     {

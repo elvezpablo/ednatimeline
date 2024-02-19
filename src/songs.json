@@ -1,0 +1,58 @@
+[
+    {
+        "label": "Brother Can Spare a Dime (1932)",
+        "start": "1932-06-01"
+    },
+    {
+        "label": "Over the Rainbow (1938)",
+        "start": "1938-10-17"
+    },
+    {
+        "label": "White Christmas (1942)",
+        "start": "1942-10-04"
+    },
+    {
+        "label": "That's My Desire",
+        "start": "1931-01-01"
+    },
+    {
+        "label": "Sentimental Journey",
+        "start": "1944-01-01"
+    },
+    {
+        "label": "Rock Around the Clock",
+        "start": "1954-01-01"
+    },
+    {
+        "generation": "Baby Boomers (1946-1964)",
+        "songs": [
+            "Blowin' in the Wind (1963)",
+            "Respect (1967)",
+            "Imagine (1971)"
+        ]
+    },
+    {
+        "generation": "Generation X (1965-1980)",
+        "songs": [
+            "Bohemian Rhapsody (1975)",
+            "Like a Prayer (1989)",
+            "Smells Like Teen Spirit (1991)"
+        ]
+    },
+    {
+        "generation": "Millennials (1981-1996)",
+        "songs": [
+            "Lose Yourself (2002)",
+            "Single Ladies (Put a Ring on It) (2008)",
+            "Uptown Funk (2014)"
+        ]
+    },
+    {
+        "generation": "Generation Z (1997-2012)",
+        "songs": [
+            "Despacito - Remix (2017)",
+            "Old Town Road (2019)",
+            "Dynamite (2020)"
+        ]
+    }
+]

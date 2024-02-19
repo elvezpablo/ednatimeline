@@ -1,5 +1,5 @@
 export type TimelineEvent = {
-    start: string;
-    end?: Date;
-    label: string;
-  };
+  start: string;
+  end?: string;
+  label: string;
+};

@@ -11,17 +11,16 @@ type Props = {
   height?: number;
   position?: number;
   showDecades?: boolean;
+  genesis: Date;
 };
 
-const GENESIS = new Date("1929-01-01");
-
-export default function WorldTimeline({ title, events = [], width, height, position = 0, showDecades }: Props) {
+export default function WorldTimeline({ title, events = [], width, height, position = 0, showDecades, genesis }: Props) {
 
   const text_height = 30;
   const gap = 3;
   const bar_y = text_height + gap
   const bar_height = height - bar_y - gap;
-  const y = scaleTime([GENESIS, new Date()], [bar_y, bar_y + bar_height]);
+  const y = scaleTime([genesis, new Date()], [bar_y, bar_y + bar_height]);
   const max_width = width / 3;
 
   const decades = y.ticks(10);
